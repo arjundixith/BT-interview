@@ -1,3 +1,8 @@
+# Output
+
+![test](https://github.com/arjundixith/BT-interview/assets/22051474/29b530a3-3e14-4b38-b3af-ca913418cfaa)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
